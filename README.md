@@ -1,7 +1,7 @@
 # 3 Easy Ways to Smoothen Time Series Data
 
 ![image](https://github.com/MihaliRahael/Trading_Fundamentals/assets/106816732/65beb2d6-3a1f-4a82-9595-75d962cadbe9)
-
+Note : Code for the above image is Perona_Malik_PDE.py
 Financial data can be super noisy, and smoothing it out can be a lifesaver, helping traders and investors to:
 -	Spot trends and direction (both short and long term)
 -	Create strategies (like the good old moving average crossover)
