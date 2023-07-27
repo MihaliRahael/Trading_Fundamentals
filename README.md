@@ -30,7 +30,6 @@ Here’s the rough process in a nutshell:
 -	Find a smooth curve through the data points using mathematical magic. This curve is expressed as a function.
 -	Evaluate that smooth curve function at the middle of the window.
 Boom, that’s your smoothened data point for that window. This process is repeated for each window.
-![image](https://github.com/MihaliRahael/Trading_Fundamentals/assets/106816732/f1bd1402-b750-4d70-a95a-4c7a5621e5d6)
 
 There are two parameters to this approach:
 -	The window size
